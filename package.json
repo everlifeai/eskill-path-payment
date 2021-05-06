@@ -1,22 +1,15 @@
 {
   "name": "eskill-activate-stellar-account",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.1.0",
+  "description": "Activate or transfer EVER into your avatar",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/everlifeai/eskill-activate-stellar-account.git"
   },
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/everlifeai/eskill-activate-stellar-account/issues"
   },
-  "homepage": "https://github.com/everlifeai/eskill-activate-stellar-account#readme",
-  "dependencies": {
-    "stellar-sdk": "^8.1.1"
-  }
+  "homepage": "https://github.com/everlifeai/eskill-activate-stellar-account#readme"
 }
