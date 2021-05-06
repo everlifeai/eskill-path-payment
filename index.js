@@ -402,7 +402,6 @@ function startMicroservice() {
                 sendReply("Error: Please check the parameters. ( /activate_stellar_account <SECRET_KEY> <AMT> <ASSET> )", req);
             }
         } else {
-            sendReply(req.msg, req);
             return cb();
         }
     })
